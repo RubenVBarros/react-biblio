@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
+.main{
+    background-color: white;
+    border: 10px solid red;
+    margin: 50px;
+    padding: 10px;;
+}
+label{
+    margin: 1%;
+}
+input{
+    margin: 1%;
+}
+#btn{
+    margin: 5%;
+}
