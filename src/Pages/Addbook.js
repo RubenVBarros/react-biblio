@@ -33,6 +33,9 @@ function Addbook(){
                         <label>Nombre de pages</label>
                         <TextField id="outlined-basic" name="bookNbPages" variant="outlined"/>
 
+                        <label>Genre du livre</label>
+                        <TextField id="outlined-basic" name='bookGenre' variant='outlined'></TextField>
+
                         <label>Maison d'édition</label>
                         <TextField id="outlined-basic" name="bookEdition" variant="outlined"/>
 
